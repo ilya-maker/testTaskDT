@@ -13,7 +13,7 @@ interface Props {
     postData: Post;
 }
 
-const ChangePost = ({ postData }: Props): JSX.Element => {
+const ChangePostData = ({ postData }: Props): JSX.Element => {
     const [title, setTitle] = useState(postData.title);
     const [body, setBody] = useState(postData.body);
     const dispatch = useDispatch();
@@ -52,7 +52,7 @@ const ChangePost = ({ postData }: Props): JSX.Element => {
     );
 };
 
-ChangePost.getInitialProps = async (context) => {
+ChangePostData.getInitialProps = async (context) => {
     const { id } = context.query;
     const API_URL = 'https://simple-blog-api.crew.red/posts/';
     const preparedData = await fetch(`${API_URL}${id}`);
@@ -61,4 +61,4 @@ ChangePost.getInitialProps = async (context) => {
     return { postData: data };
 };
 
-export default ChangePost;
+export default ChangePostData;
