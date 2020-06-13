@@ -4,7 +4,7 @@ import { changePost } from '../../src/helpers/api';
 import Router from 'next/router';
 import { useDispatch } from 'react-redux';
 import { Button, Form } from '../../src/components/Forms';
-import { Span } from './index';
+import Span from './index';
 import FormInput from "../../src/components/Forms/FormInput";
 import FormTextarea from "../../src/components/Forms/FormTextarea";
 import {editPost} from "../../src/store/actions/editPost";
