@@ -11,7 +11,8 @@ export const Text = styled.section`
 `;
 
 export const ContainerDiv = styled.div`
-  width: 100%;
+  width: 80%;
+  height: 95%;
   overflow: hidden;
   transition: transform;
 `;
