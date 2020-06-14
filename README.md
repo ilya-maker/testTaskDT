@@ -8,10 +8,10 @@
     Open the project folder "testTaskDT"
   </li>
   <li>
-    Run the command in your terminal <npm install>
+    Run the command in your terminal ```npm install```
   </li>
   <li>
-    Run the command in your terminal <npm run dev>
+    Run the command in your terminal ```npm run dev```
   </li>
   <li>
     Open in your Browser http://localhost:3000
