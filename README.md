@@ -8,7 +8,10 @@
     Open the project folder "testTaskDT"
   </li>
   <li>
-    Run the command in your terminal `npm install`
+    Run the command in your terminal
+```
+npm install
+```
   </li>
   <li>
     Run the command in your terminal 
@@ -24,6 +27,4 @@
 code block
 ```
 
-```
-npm install
-```
+
