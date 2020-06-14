@@ -28,4 +28,10 @@ npm install
 code block
 ```
 
+## How  to run it
 
+ 1. Clone the repository `git clone https://github.com/SeiAlek/test-tasks__dt.git`
+ 2. Go into project folder `cd test-task__dt`
+ 3. Run `npm install`
+ 4. Run `npm run dev` 
+ 5. Open in your Browser `http://localhost:3000`
