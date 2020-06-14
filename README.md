@@ -2,11 +2,11 @@
 <img src="http://i.piccy.info/i9/33b374dc16858b91be3fcd5274b9df65/1592124388/126968/1383417/Annotatsyia_2020_06_14_114528.jpg" alt="Page Posts" width="500"/>
 ## How to run this project
 1. Clone this repository.
-2. Open the project folder "testTaskDT" in your redactor.
+2. Open the project folder "testTaskDT" in your editor/IDE.
 3. Run the command in your terminal `npm install` or `yarn install`
 4. Run the command in your terminal `npm run dev` or `yarn dev`
 5. Open in your Browser http://localhost:3000
-## In this project, it was implemented:
+## Implemented Features:
 1. Adding comments to the post.
 2. Removing a post from the list, and from the post page.
 3. Change post data from the list, and from the post page.
