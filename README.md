@@ -11,9 +11,9 @@
     Run the command in your terminal
 
   </li>
-  ```
+  {```
 npm install
-```
+```}
   <li>
     Run the command in your terminal 
     ```
