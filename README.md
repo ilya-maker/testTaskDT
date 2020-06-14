@@ -9,12 +9,11 @@
   </li>
   <li>
     Run the command in your terminal
-<h2>
-```
+
+  </li>
+  ```
 npm install
 ```
-    </h2>
-  </li>
   <li>
     Run the command in your terminal 
     ```
