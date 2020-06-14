@@ -11,7 +11,7 @@ export const Text = styled.section`
 `;
 
 export const ContainerDiv = styled.div`
-  margin: 1rem 2rem;
+  width: 100%;
   overflow: hidden;
   transition: transform;
 `;
