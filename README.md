@@ -1,4 +1,4 @@
-<h1>[DEMO LINK](https://test-task-dt.ilya-maker.vercel.app/)</h1>
+[DEMO LINK](https://test-task-dt.ilya-maker.vercel.app/)
 ![Page Posts](http://i.piccy.info/i9/33b374dc16858b91be3fcd5274b9df65/1592124388/126968/1383417/Annotatsyia_2020_06_14_114528.jpg)
 ## How to run this project
 1. Clone this repository.
