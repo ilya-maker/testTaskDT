@@ -1,5 +1,5 @@
 [DEMO LINK](https://test-task-dt.ilya-maker.vercel.app/)
-![alt text](blob:https://vercel.com/326843a3-6a6a-4a0b-bebf-aaac0b0eca38)
+![alt text](https://prnt.sc/szep4z)
 ## How to run this project
 1. Clone this repository.
 2. Open the project folder "testTaskDT" in your redactor.
