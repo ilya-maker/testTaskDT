@@ -1,10 +1,24 @@
 [DEMO LINK](https://test-task-dt.ilya-maker.vercel.app/)
 ## How to run this project
 1. Clone this repository.
-2. Open the project folder "testTaskDT"
+2. Open the project folder "testTaskDT" in your redactor.
 3. Run the command in your terminal `npm install` or `yarn install`
 4. Run the command in your terminal `npm run dev` or `yarn dev`
 5. Open in your Browser http://localhost:3000
+## In this project, it was implemented:
+1. Adding comments to the post.
+2. Removing a post from the list, and from the post page.
+3. Change post data from the list, and from the post page.
+4. Adding a new post.
+5. View the last 10 posts.
+6. View all posts.
+## Used technologies 
+1. TypeScript
+2. React
+3. Redux
+4. Next.js (SSR)
+5. Styled Components
+6. Axios
 ## Task description
 __Functional requirements__ 
 - The blog should have Latest Posts page (`/` route)
