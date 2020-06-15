@@ -2,7 +2,6 @@ import Router from 'next/router';
 import React from 'react';
 import { useDispatch } from 'react-redux';
 import * as api from '../../../helpers/api';
-import {setPosts} from '../../../store/actions/setPosts';
 import {deletePost} from '../../../store/actions/deletePost';
 import { Delete } from './index';
 

@@ -1,8 +1,6 @@
 import Router from 'next/router';
 import React, { useState } from 'react';
-import { useDispatch } from 'react-redux';
 import * as api from '../../helpers/api';
-import { setPosts } from '../../store/actions/setPosts';
 import FormInput from './FormInput';
 import FormTextarea from './FormTextarea';
 import { Form, Button } from "./index";
@@ -10,7 +8,6 @@ import { Form, Button } from "./index";
 const FormAddPost = () => {
     const [postTitle, setPostTitle] = useState('');
     const [postBody, setPostBody] = useState('');
-    const dispatch = useDispatch();
 
     const handleSubmit = (e: React.FormEvent) => {
         e.preventDefault();

@@ -10,7 +10,9 @@ interface Props {
 
 const FormAddComment = ({ postId }: Props) => {
     const [commentBody, setCommentBody] = useState('');
+
     const handleSubmit = (e: React.FormEvent) => {
+
         e.preventDefault();
         if (!commentBody.trim()) {
             return;

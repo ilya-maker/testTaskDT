@@ -1,9 +1,8 @@
-import React, {useState} from 'react';
+import React from 'react';
 import FormAddComment from '../Forms/FormAddComment';
 import PostRemove from './PostFunctional/PostRemove';
 import { Container, Text } from './index';
 import PostEdit from "./PostFunctional/PostEdit";
-import Link from "next/link";
 
 interface Props {
     post: Post;

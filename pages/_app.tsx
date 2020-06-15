@@ -1,10 +1,7 @@
 import { AppProps } from 'next/app';
 import React, { useEffect } from 'react';
-import { useDispatch } from 'react-redux';
 import { createGlobalStyle } from 'styled-components';
-import { getPosts } from '../src/helpers/api';
 import { wrapper } from '../src/store';
-import { setPosts } from '../src/store/actions/setPosts';
 
 const GlobalStyle = createGlobalStyle`
   body {

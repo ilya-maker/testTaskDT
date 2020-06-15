@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d1eda371-0448-4174-a3f8-d744e719c825" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/edit/[id].tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/edit/[id].tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer/Footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Forms/FormAddComment.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Forms/FormAddComment.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Forms/FormAddPost.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Forms/FormAddPost.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout/Layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/Layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Posts/PostDetail.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Posts/PostDetail.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Posts/PostFunctional/PostEdit.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Posts/PostFunctional/PostEdit.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Posts/PostFunctional/PostRemove.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Posts/PostFunctional/PostRemove.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Posts/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Posts/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/api.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/reducers/postReducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/reducers/postReducer.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +43,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pages" />
     <property name="prettierjs.PrettierConfiguration.Package" value="F:\git_projects\JS\React\test\test2\nextjs-blog\node_modules\prettier" />
-    <property name="ts.external.directory.path" value="F:\git_projects\JS\React\test\test2\nextjs-blog\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -67,7 +77,9 @@
       <option name="presentableId" value="Default" />
       <updated>1591953152397</updated>
       <workItem from="1591953154118" duration="2743000" />
-      <workItem from="1591956108450" duration="49964000" />
+      <workItem from="1591956108450" duration="51996000" />
+      <workItem from="1592205104345" duration="376000" />
+      <workItem from="1592205545349" duration="277000" />
     </task>
     <servers />
   </component>

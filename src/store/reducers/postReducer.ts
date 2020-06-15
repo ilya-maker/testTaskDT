@@ -4,7 +4,7 @@ import { EDIT_POST } from "../actions/editPost";
 
 const PostState: Post[] = [];
 
-const postReducer = (state = PostState, action) => {
+const postReducer = (state = PostState, action): Post[] => {
     switch (action.type) {
         case SET_POSTS:
             return action.posts;

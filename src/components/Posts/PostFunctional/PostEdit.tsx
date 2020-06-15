@@ -1,14 +1,6 @@
-import Router from 'next/router';
-import React, {useState} from 'react';
-import { useDispatch } from 'react-redux';
-import * as api from '../../../helpers/api';
-import * as store from '../../../store/actions/setPosts';
+import React from 'react';
 import { Edit } from './index';
-import { editPost } from "../../../store/actions/editPost";
-import {setPosts} from "../../../store/actions/setPosts";
 import Link from "next/link";
-import {Container} from "../index";
-// import { FormAddPost } from '../../Forms/FormAddPost';
 
 type Props = {
     id: number;

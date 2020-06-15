@@ -85,27 +85,6 @@ export const sendComment = async (postId: number, postBody: string): Promise<Pos
     }
 };
 
-export const changePost2 = async (
-    postTitle: string,
-    postBody: string,
-    id: number,
-): Promise<Post[]> => {
-    const requestConfig: RequestConfig = {
-        method: 'POST',
-        redirect: 'follow',
-        title: postTitle,
-        body: postBody,
-        postId: id,
-    };
-
-    try {
-        return await axios.post(`${API_URL}/posts/${id}`, requestConfig)
-            .then(() => getPosts());
-    } catch (error) {
-        console.log(error);
-    }
-};
-
 export const changePost = async (
     postTitle: string,
     postBody: string,

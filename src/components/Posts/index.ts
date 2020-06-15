@@ -11,6 +11,7 @@ export const Text = styled.section`
 `;
 
 export const ContainerDiv = styled.div`
+  wigth: 100%;
   margin: 1rem 2rem;
   overflow: hidden;
   transition: transform;

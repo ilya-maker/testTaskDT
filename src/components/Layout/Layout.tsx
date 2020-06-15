@@ -3,8 +3,6 @@ import React, {useEffect} from 'react';
 import Footer from '../Footer/Footer';
 import Header from '../Header/Header';
 import { Main, Wrapper } from './index';
-import {getPosts} from "../../helpers/api";
-import {setPosts} from "../../store/actions/setPosts";
 import { useDispatch } from 'react-redux';
 import { getPostsFromAPI } from '../../store/index';
 
