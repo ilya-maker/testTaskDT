@@ -11,8 +11,13 @@ export const Text = styled.section`
 `;
 
 export const ContainerDiv = styled.div`
+<<<<<<< HEAD
   wigth: 100%;
   margin: 1rem 2rem;
+=======
+  width: 80%;
+  height: 95%;
+>>>>>>> 993acfcdfd8ffc9c02d395f1eec6c17156903f87
   overflow: hidden;
   transition: transform;
 `;
